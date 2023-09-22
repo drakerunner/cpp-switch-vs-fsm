@@ -1,0 +1,20 @@
+{
+    "name": "cpp-switch-vs-fsm",
+    "image": "mcr.microsoft.com/vscode/devcontainers/cpp:bullseye",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "eamodio.gitlens",
+                "Equinusocio.vsc-material-theme",
+                "GitHub.copilot-chat",
+                "GitHub.copilot-labs",
+                "GitHub.copilot",
+                "ms-vscode.cpptools-extension-pack",
+                "usernamehw.errorlens",
+                "visualstudioexptteam.vscodeintellicode",
+                "vscode-icons-team.vscode-icons"
+            ]
+        }
+    },
+    "remoteUser": "vscode"
+}

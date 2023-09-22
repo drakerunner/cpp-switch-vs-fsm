@@ -1,0 +1,1 @@
+int fsm_char_to_state(char v);
